@@ -105,6 +105,13 @@ Future Work: Integration of Sentinel-2 Satellite imagery for a macro-view of the
 
 🥇 IX. Visionary Statement
 "AGRO_TECH 2026 is not just a codebase; it is a digital safeguard for the environment and the people of the Sahara, turning 20 years of historical data into life-saving real-time intelligence."
+🔍 Spectral & Bio-Chemical Intelligence:
+
+Spectral Indices: Integration of NDSI (Normalized Difference Salinity Index) to distinguish between salt crusts and sandy substrates.
+
+Cation Correlation: Causal reasoning between Magnesium/Calcium ratios (Hard Water) and the crystallization of Calcium Oxalate Monohydrate (Whewellite).
+
+Optimized Edge Flow: Deployment via XNNPACK delegate in MediaPipe to ensure sub-100ms inference latency during active drone surveillance.
 📚 IX. Consolidated Scientific References (The Ground-Truth Atlas)
 This list represents the scientific and technical backbone of the project, ensuring a "Zero-Hallucination" framework by grounding Gemma 2 in both historical regional data and modern global standards.
 
@@ -146,3 +153,4 @@ Role: Modern benchmarks for satellite-based salt-stress detection in date palms.
 
 ⚖️ X. Ethical Statement & Data Sovereignty
 The AGRO_TECH project strictly adheres to the principle of Data Sovereignty. All regional historical data and clinical statistics are processed with respect to the privacy of the local population and the intellectual property of Algerian research institutions. The integration of 2006-2026 data is performed through an "Anonymized Vectorization Process", ensuring that AI insights remain beneficial to the community without compromising security.
+
