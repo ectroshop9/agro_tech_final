@@ -65,3 +65,18 @@ db = lancedb.connect("./agro_tech_vectors")
 table = db.open_table("real_time_monitoring")
 🥇 Visionary Statement
 "AGRO_TECH 2026 is not just a codebase; it is a digital safeguard for the environment and the people of the Sahara, turning data into life-saving intelligence."
+# 1. مكتبات المحرك الأساسية (Gemma 2 & Quantization)
+pip install -q -U transformers==4.44.2 accelerate==0.34.2 bitsandbytes==0.43.3
+
+# 2. مكتبة قاعدة البيانات المتجهية (Vector DB & RAG)
+pip install -q -U lancedb==0.12.0 tantivy==0.22.0 pyarrow
+
+# 3. مكتبات معالجة البيانات والملفات (JSON & Analytics)
+pip install -q -U pandas numpy scikit-learn
+
+# 4. مكتبات جغرافية ورسم الخرائط (Geospatial & Visualization)
+# ملاحظة: geopy لجلب إحداثيات ورقلة، و folium لرسم الخرائط الحرارية
+pip install -q -U geopy folium matplotlib seaborn
+
+# 5. مكتبات التصدير المستقبلي (Edge AI Deployment)
+pip install -q -U mediapipe-model-maker onnx onnxruntime
