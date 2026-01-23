@@ -1,5 +1,4 @@
-🛰️ AGRO_TECH 2026: The Sovereign AI Sentinel for the Sahara
-Multi-Source Med-Gemma Framework: Integrating Satellite, Drone Telemetry & Clinical Real-time Data
+AGRO_TECH Multi-Source Med-Gemma Framework: Integrating Satellite, Drone Telemetry & Clinical Real-time Data
 📖 I. Executive Summary
 AGRO_TECH 2026 is a sovereign AI framework developed for the Ouargla Province (Algeria). It addresses the critical nexus between environmental degradation (soil/water salinity) and public health (renal diseases). By leveraging Google's Gemma 2 2b-it model, MediaPipe Vision, and LanceDB, the system correlates high-resolution drone telemetry with clinical datasets to provide proactive medical and agricultural interventions.
 
